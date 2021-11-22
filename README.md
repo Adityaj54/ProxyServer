@@ -9,16 +9,16 @@
  
 ### Sample input 
 GET /index.html HTTP/1.1<br>
-Host: www.berkeley.edu<br>
+Host: www.njit.edu<br>
 User-Agent: Mozilla/5.0<br>
 Accept: text/xml,application/xml,application/xhtml+xml,text/html*/*<br>
 Accept-Language: en-us Accept-Charset: ISO-8859-1,utf-8<br>
 Connection: keep-alive 
 
 
-### Sample looging
+### Sample logging
 
-DNS LOOKUP: www.berkeley.edu<br>
+DNS LOOKUP: www.njit.edu<br>
 Preferred IP: 22.33.44.55
 
 ### Output
