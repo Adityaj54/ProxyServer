@@ -8,17 +8,17 @@
  Dealt with the Packets at the byte level in java using the Network Byte order (RFC 1700)
  
 ### Sample input 
-GET /index.html HTTP/1.1
-Host: www.berkeley.edu
-User-Agent: Mozilla/5.0
-Accept: text/xml,application/xml,application/xhtml+xml,text/html*/*
-Accept-Language: en-us Accept-Charset: ISO-8859-1,utf-8
+GET /index.html HTTP/1.1<br>
+Host: www.berkeley.edu<br>
+User-Agent: Mozilla/5.0<br>
+Accept: text/xml,application/xml,application/xhtml+xml,text/html*/*<br>
+Accept-Language: en-us Accept-Charset: ISO-8859-1,utf-8<br>
 Connection: keep-alive 
 
 
 ### Sample looging
 
-DNS LOOKUP: www.berkeley.edu
+DNS LOOKUP: www.berkeley.edu<br>
 Preferred IP: 22.33.44.55
 
 ### Output
